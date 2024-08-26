@@ -98,40 +98,40 @@ fn main() {
       <br>Mongo
     </td>
      </tr>
-       <tr>
-     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
+     <tr>  
+       <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
-      <br>RestAPI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="Flutter" />
-      <br>FastAPI
-    </td>  
-  </tr>
+        <br>Rust
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+        <br>Solidity
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
+        <br>Go
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
+        <br>C#
+      <td align="center" width="90">
+        <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
+        <br>DeFi
+      </td>
+       </td>
+        <td align="center" width="90">
+        <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
+        <br>NFT
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
+        <br>RestAPI
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="Flutter" />
+        <br>FastAPI
+      </td>  
+    </tr>
 </table>
 <h2></h2>
 <br />
