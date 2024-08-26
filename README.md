@@ -111,9 +111,9 @@
 <br />
 <div align="center">
 <!--      <a href="https://jaylee518.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=1F2024&logoColor=white&backgroundColor=green" /></a> -->
-    <a href="mailto:ultantaylor@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white" /></a>
-    <a href="https://t.me/codecrafter518"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white" /></a>
-    <a href="https://discordapp.com/users/pixelcodecrafter18/"><img alt="Discord badge" src="https://img.shields.io/badge/discord-339966?logo=discord&logoColor=white"/></a>   
+    <a href="mailto:ultantaylor@gmail.com" target="_blank"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white" /></a>
+    <a href="https://t.me/codecrafter518" target="_blank"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white" /></a>
+    <a href="https://discordapp.com/users/pixelcodecrafter18/" target="_blank"><img alt="Discord badge" src="https://img.shields.io/badge/discord-339966?logo=discord&logoColor=white"/></a>   
 </div>
 <h2></h2>
 
