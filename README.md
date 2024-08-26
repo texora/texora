@@ -1,4 +1,24 @@
+# Favorite Saying 👍
 
+```rust
+/// xfactor's motto
+struct BillGates;
+
+impl BillGates {
+  /// Return Bill Gates quote
+  fn said(&self) -> &str {
+    "Measuring programming progress by lines of codes \
+    is like measuring aircraft building progress by weight."
+  }
+}
+
+fn main() {
+  let bill_gate = BillGate;
+
+  println!("Bill Gates - {}", bill_gate.said());
+}
+```
+<br />
 
 ## ⚡ My Skills
 <br />
