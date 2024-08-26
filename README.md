@@ -133,9 +133,3 @@ fn main() {
     </tr>
 </table>
 <h2></h2>
-
-<h2></h2>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-
