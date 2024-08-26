@@ -3,7 +3,7 @@
   <img src='https://github-widgetbox.vercel.app/api/profile?username=pixelcodecrafter&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
-# Favorite Saying 👍
+## Favorite Saying 👍
 
 ```rust
 /// CodeCrafter's motto
