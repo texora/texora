@@ -1,13 +1,13 @@
 #
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=CodeCrafter&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=pixelodecrafter&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 <br />
 
 # Favorite Saying 👍
 
 ```rust
-/// xfactor's motto
+/// CodeCrafter's motto
 struct BillGates;
 
 impl BillGates {
