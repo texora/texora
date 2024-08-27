@@ -7,20 +7,20 @@
 
 ```rust
 /// CodeCrafter's motto
-struct BillGates;
+struct LinusTorvalds;
 
-impl BillGates {
+impl LinusTorvalds {
   /// Return Bill Gates quote
   fn said(&self) -> &str {
-    "Measuring programming progress by lines of codes \
-    is like measuring aircraft building progress by weight."
+    "Most good programmers do programming not because they expect to get paid or get adulation by the public, \
+    but because it is fun to program."
   }
 }
 
 fn main() {
-  let bill_gate = BillGate;
+  let linus_torvalds = LinusTorvalds;
 
-  println!("Bill Gates - {}", bill_gate.said());
+  println!("Linus Torvalds - {}", linus_torvalds.said());
 }
 ```
 <br />
