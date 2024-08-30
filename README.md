@@ -64,6 +64,14 @@ fn main() {
     </td>
   </tr>
 <tr>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+      <br>Django
+    </td>
    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Laravel" />
       <br>NodeJS
@@ -79,14 +87,6 @@ fn main() {
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
       <br>WordPress
-    </td>
-      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
-      <br>Django
     </td>
    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
