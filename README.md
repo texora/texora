@@ -1,6 +1,6 @@
 #
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=pixelcodecrafter&theme=bushido&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=pixelcodecrafter&theme=metropolis&data=followers,repositories,stars,commits' />
 </p>
 
 ## Favorite Saying 👍
