@@ -1,4 +1,3 @@
-<hr />
 ## Favorite Saying 👍
 
 ```rust
