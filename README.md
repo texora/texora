@@ -2,8 +2,6 @@
 
 I am a diligent software engineer and avid open source developer with over 10 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world.
 
-<br />
-
 ## Favorite Saying 👍
 
 ```rust
@@ -24,7 +22,6 @@ fn main() {
   println!("Linus Torvalds - {}", linus_torvalds.said());
 }
 ```
-<br />
 
 ## ⚡ My Skills
 <br />
