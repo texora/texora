@@ -1,7 +1,7 @@
-##👋 Welcome to my github page! <br />
+#👋 Welcome to my github page! <br />
 
-# I am a diligent software engineer and avid open source developer with over 10 years of experience. 
-# I am focused on building innovative and cutting-edge business solutions for clients around the world.
+## I am a diligent software engineer and avid open source developer with over 10 years of experience. 
+## I am focused on building innovative and cutting-edge business solutions for clients around the world.
 
 ## Favorite Saying 👍
 
