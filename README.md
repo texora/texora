@@ -99,8 +99,6 @@ fn main() {
 </table>
 <h2></h2>
 
-###
-
 <div align="center">
   <a href="https://github.com/texora" target="_blank">
     <img src="https://img.shields.io/github/followers/texora?label=Follow%20Me&style=social" alt="GitHub Followers" />
@@ -110,4 +108,3 @@ fn main() {
   </a>
 </div>
 
-###
