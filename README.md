@@ -98,3 +98,16 @@ fn main() {
     </tr>
 </table>
 <h2></h2>
+
+###
+
+<div align="center">
+  <a href="https://github.com/texora" target="_blank">
+    <img src="https://img.shields.io/github/followers/texora?label=Follow%20Me&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/yato-sketch?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/texora?label=Star%20My%20Repos&style=social" alt="GitHub Stars" />
+  </a>
+</div>
+
+###
